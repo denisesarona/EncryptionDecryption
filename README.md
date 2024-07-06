@@ -34,7 +34,7 @@ This project is a Simple Encryption and Decryption System that implements three 
 2. **Open the Project in Dev C++**
 
    - Launch Dev C++.
-   - Open the `encryption_system.dev` project file.
+   - Open the `FinalProject.cpp` project file.
 
 3. **Build and Run**
 
@@ -74,4 +74,4 @@ This project is a Simple Encryption and Decryption System that implements three 
 
 ## File Structure
 
-- **main.cpp**: Main source file containing the implementation of the encryption and decryption methods.
+- **FinalProject.cpp**: Main source file containing the implementation of the encryption and decryption methods.
